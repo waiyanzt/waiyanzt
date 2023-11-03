@@ -1,5 +1,5 @@
 ### 👋Hi there, I'm Wai Yan, a Burmese Software Engineer currently based in Singapore. I am currently on the hunt for job opportunities and using my downtime to learn & improve. ✨ 
-🌱 I’m currently grinding LeetCode using NeetCode's 150 RoadMap (Blind 75 + 75 extra questions categorised by topic) at https://neetcode.io/roadmap and learning Swift ⚡😄.
+### 🌱 I’m currently grinding LeetCode using NeetCode's 150 RoadMap (Blind 75 + 75 extra questions categorised by topic) at https://neetcode.io/roadmap and learning Swift ⚡😄.
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=zteezy19)](https://github.com/KnlnKS/leetcode-stats)
 
 <!--
