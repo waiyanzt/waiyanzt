@@ -2,6 +2,8 @@
 ### 🌱 I’m currently learning Swift for fun ⚡😄.
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=zteezy19)](https://github.com/KnlnKS/leetcode-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zteezy19)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **zteezy19/zteezy19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
