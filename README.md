@@ -1,5 +1,5 @@
 ### 👋Hi there, I'm Wai Yan, a Burmese Software Engineer currently based in Singapore. I am currently on the hunt for job opportunities and using my downtime to grind LeetCode. ✨ 
-### 🌱 I’m currently learning Swift for fun ⚡😄.
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=zteezy19)](https://github.com/KnlnKS/leetcode-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zteezy19)](https://github.com/anuraghazra/github-readme-stats)
