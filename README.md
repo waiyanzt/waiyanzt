@@ -3,7 +3,7 @@
   <img src="https://imgur.com/fbnCReX.png" alt="Hi 👋, I'm Wai Yan" />
 </h1>
 
-<h3 align="center">A Full-Stack SWE currently based in Singapore.</h3>
+<h3 align="center">A Software Engineer currently based in Singapore</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zteezy19&label=Profile%20views&color=290eb4&style=flat-square" alt="zteezy19" /> </p>
