@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wai Yan</h1>
 <h3 align="center">A Full-Stack SWE currently based in Singapore.</h3>
-<img align="right alt="Coding width="400" src="https://imgur.com/a/BfMwrF6>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zteezy19&label=Profile%20views&color=290eb4&style=flat-square" alt="zteezy19" /> </p>
 
