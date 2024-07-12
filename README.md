@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zteezy.dev@gmail.com**
 
-- ⚡ Fun fact **I look up to programmers like John Carmack and ThePrimeagen. Yes, I am a zoomer. **
+- ⚡ Fun fact **I look up to programmers like John Carmack and ThePrimeagen. Yes, I am a zoomer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
