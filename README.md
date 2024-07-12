@@ -5,7 +5,7 @@
 
 <h3 align="center">A Software Engineer currently based in Singapore</h3>
 
-
+<img align="right" alt="Coding ☕" width="400" src="https://i.imgur.com/Ejwlm5K.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zteezy19&label=Profile%20views&color=290eb4&style=flat-square" alt="zteezy19" /> </p>
 
 - 🌱 I’m currently learning **GoLang and Distributed Systems.**
