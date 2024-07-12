@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, C# and Python**
 
-- 📫 How to reach me **zteezy**
+- 📫 How to reach me **zteezy.dev@gmail.com**
 
 - ⚡ Fun fact **I look up to programmers like John Carmack & ThePrimeagen. Yes, I'm a zoomer.**
 
