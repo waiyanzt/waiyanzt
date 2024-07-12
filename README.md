@@ -1,5 +1,6 @@
+<!-- Masterhead section -->
 <h1 align="center">
-  <img src="https://imgur.com/fbnCReX" alt="Hi 👋, I'm Wai Yan" />
+  <img src="https://imgur.com/fbnCReX.png" alt="Hi 👋, I'm Wai Yan" />
 </h1>
 
 <h3 align="center">A Full-Stack SWE currently based in Singapore.</h3>
