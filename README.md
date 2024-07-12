@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Wai Yan</h1>
+<h1 align="center">
+  <img src="YOUR_IMGUR_IMAGE_LINK" alt="Hi 👋, I'm Wai Yan" />
+</h1>
+
 <h3 align="center">A Full-Stack SWE currently based in Singapore.</h3>
 
 
