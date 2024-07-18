@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **GoLang and Distributed Systems.**
 
-- 📝 I regularly write articles on [zteezy.me](zteezy.me)
+- 📝 You can access **my personal notes & ideas** at [zteezy.me](zteezy.me)
 
 - 💬 Ask me about **React, C# and Python**
 
