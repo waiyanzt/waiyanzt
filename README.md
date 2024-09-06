@@ -3,18 +3,7 @@
   <img src="https://imgur.com/fbnCReX.png" alt="Hi 👋, I'm Wai Yan" />
 </h1>
 
-<h3 align="center">A Software Engineer currently based in Singapore</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zteezy19&label=Profile%20views&color=290eb4&style=flat-square" alt="zteezy19" /> </p>
-
-- 🌱 I’m currently learning **GoLang and Distributed Systems.**
-
-- 📝 You can access **my personal notes & ideas** at [zteezy.me](zteezy.me)
-
-- 📫 How to reach me **zteezy.dev@gmail.com**
-
-- ⚡ **I believe in being a lifelong learner and some of my hobbies include recreational reading, building keyboards and challenging MOBA games like DOTA 2.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
