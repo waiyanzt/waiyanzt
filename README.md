@@ -1,2 +1,3 @@
-Hello... I also go by Marcus
-Computer programmer & eva pilot aspirant
+-> hello... I also go by Marcus
+
+-> computer programmer & eva pilot aspirant
